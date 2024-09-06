@@ -9,24 +9,6 @@
 - 👨‍💻 My projects are available at [https://notnalin.netlify.app/](https://notnalin.netlify.app/)
 - 📫 How to reach me **<notnalin@protonmail.com>**
 
----
-
-<h3 align="left">🚀 Featured Projects:</h3>
-<p align="left">
-  Some notable projects I've worked on:
-</p>
-<ul>
-  <li>
-    <a href="https://github.com/NotNalin/rtadubai">rtadubai</a>: API for Roads and Transport Authority(Dubai) in Python.
-  </li>
-  <li>
-    <a href="https://github.com/Stoobyy/SHJ-Polize">SHJ-Polize</a>: A multipurpose discord bot made with Python
-  </li>
-</ul>
-
----
-
-<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/notnalin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notnalin" height="30" width="40" />
