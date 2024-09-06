@@ -21,8 +21,6 @@
   </a>
 </p>
 
----
-
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -45,8 +43,6 @@
   </a>
 </p>
 
----
-
 <h3 align="left">☕ Support:</h3>
 <p>
   If you enjoy my projects or find them useful, consider buying me a coffee to keep me fueled for coding!
@@ -57,8 +53,6 @@
   </a>
 </p>
 <br><br>
-
----
 
 <h3 align="left">📊 Stats:</h3>
 <p>
