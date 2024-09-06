@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notnalin&label=Profile%20views&color=0e75b6&style=flat" alt="notnalin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notnalin" alt="notnalin" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://notnalin.netlify.app/](https://notnalin.netlify.app/)
 
 - 📫 How to reach me **notnalin@protonmail.com**
