@@ -1,6 +1,5 @@
 # 💫 About Me:
-Developer 🚀 | Problem Solver 💡 | Tech Enthusiast 💻
-<br>
+### Developer 🚀 | Problem Solver 💡 | Tech Enthusiast 💻
 Passionate about building efficient solutions through code, I enjoy working on challenging projects that solve real-world problems. Always eager to learn new technologies and contribute to open-source projects.
 
 ## 🌐 Socials:
