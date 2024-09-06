@@ -21,7 +21,6 @@ Passionate about building efficient solutions through code, I enjoy working on c
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNalin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=NotNalin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NotNalin&theme=dark&hide_border=true)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/notnalin) 
