@@ -17,9 +17,13 @@ Passionate about building efficient solutions through code, I enjoy working on c
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNalin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=NotNalin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+
+<details>
+  <summary><h1> 📊 GitHub Stats:</h1></summary>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotNalin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=NotNalin&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+</details>
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/notnalin) 
